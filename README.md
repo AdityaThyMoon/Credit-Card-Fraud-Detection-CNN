@@ -1,6 +1,6 @@
 <h1 style="color:blue;">Credit Card Fraud Detection CNN</h1>
 <hr>
-<img src = "[https://imgur.com/NGppcOj](https://i.imgur.com/NGppcOj.jpg)"/>
+<img src = "https://i.imgur.com/NGppcOj.png"/>
 
 #####This project focuses on detecting credit card fraud transactions. 
 ####<b>90% of fraud transactions are detected successfully</b>  
