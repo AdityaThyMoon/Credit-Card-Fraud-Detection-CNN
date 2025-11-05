@@ -2,12 +2,12 @@
 <h1 style="color: blue;">Credit Card Fraud Detection CNN</h1>
 <h2>In this project, I created a convolutional neural network to detect credit card fraud transactions.</h2>
 <h3>Results</h3>
-<img src = "https://i.imgur.com/vOrahVf.png"/><br>
-<img src = "https://i.imgur.com/NGppcOj.png"/><br>
+<img src = "https://i.imgur.com/bSVx13q.png"/><br>
+<img src = "https://i.imgur.com/2xRMVRK.png"/><br>
 
-<img src = "https://i.imgur.com/gjOe2rC.png"/><br>
+<img src = "https://i.imgur.com/lvhPnWJ.png"/><br>
 
-<img src = "https://i.imgur.com/QfoaNBr.png"/>
+<img src = "https://i.imgur.com/UuMv24m.png"/>
 <h3>Results Explanation</h3>
 
 True Positive — when the model correctly identifies a fraudulent transaction <br>
